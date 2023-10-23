@@ -649,7 +649,7 @@ class GUI(tk.Tk):
 
             BotThread = thread.Thread(target=self.bot_creation, args=(
 
-                "5680683777:AAFnqeLZI0--UgxRvpQrybGIdaHyXK89ecE",
+                "INSERT TELEGRAM BOT TOKEN HERE",
                 self,
             ),
                                       daemon=True)
