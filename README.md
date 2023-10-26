@@ -11,4 +11,4 @@ executable/VkChatBot_archive.exe - exe-файл приложения, требу
 
 executable/Database/Vk_group_archive.sqlite3 - файл базы данных, с которым работает VkChatBot_archive.exe
 
-Видео-демонстрация: https://youtu.be/8frAHi1YoCM
+Видео-демонстрация: https://youtu.be/q-EVWPli7uM
